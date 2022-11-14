@@ -1,4 +1,6 @@
-In this implementation
+This implementation is for preprocessig Divar dataset in following steps:
 
-Display of outliers by the boxplot diagram that is included in the desired folder
-test
+1. Finding min, max, mean, median and mod of each feature.
+2. Displaying outliers using the boxplot diagram.
+3. Checking data completeness in three methods.
+4. Finding type of each feature.
